@@ -5,11 +5,8 @@ Neste projeto, turbinas eólicas flutuantes e painéis solares flutuantes serão
 Os propósitos do projeto:
 
 Geração de Energia Limpa: Para produzir eletricidade sustentável, use painéis solares flutuantes e turbinas eólicas flutuantes.
-
 Monitoramento de Integridade: A inclinação e a velocidade do vento são monitoradas por sensores para garantir a segurança e a eficiência das instalações.
-
 Armazenamento de Energia: Para garantir um fornecimento constante de energia, implemente sistemas de armazenamento como baterias de alta capacidade e tecnologia de hidrogênio.
-
 Transmissão de Energia: A energia produzida pode ser transferida para a rede elétrica onshore por meio de linhas de transmissão submarinas.
 
 
